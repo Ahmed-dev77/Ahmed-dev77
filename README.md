@@ -1,4 +1,4 @@
-![logo](https://github.com/Ahmed-dev77/Ahmed-dev77/blob/main/Time%20Flies%20(Desktop%20wallpaper).png)
+![logo](https://github.com/Ahmed-dev77/Ahmed-dev77/blob/main/githup%20img.png)
 <h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan</h3>
 
