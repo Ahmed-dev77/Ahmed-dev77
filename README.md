@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dev77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dev77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-dev77" alt="ahmed-dev77" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@hassu6621" target="blank"><img src="https://img.shields.io/twitter/follow/@hassu6621?logo=twitter&style=for-the-badge" alt="@hassu6621" /></a> </p>
-
-- 🔭 I’m currently Studying Computer Science **CS Stuff**
+- 🔭 I’m currently a Computer Science Student.
 
 - 🌱 I’m currently learning **React, Node.js etc**
 
 - 👯 I’m looking to collaborate on **AI Related Project**
 
-- 👨‍💻 All of my projects are available at [https://ahmedhportfolio.netlify.app/](https://ahmedhportfolio.netlify.app/)
+- 👨‍💻 My Portfolio are available at [https://ahmedhportfolio.netlify.app/](https://ahmedhportfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT etc**
 
