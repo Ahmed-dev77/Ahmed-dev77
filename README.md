@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dev77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dev77" /> </p>
 
 
-- 🔭 I’m currently a Computer Science Student.
+- 🔭 Currently  I’m a  Computer Science Student
 
 - 🌱 I’m currently learning **React, Node.js etc**
 
